@@ -1,20 +1,17 @@
-﻿
+# Shortest path solving in a maze
 
-------------- INSTRUCTIONS DE COMPILATION/EXECUTION --------------
+## Compiling and running the code
 
-
+To compile and run the code:
+```shell
 $ g++ -ansi -pedantic -Wall -Wextra -std=c++1y -c labyrinthe.cc
-
 $ g++ labyrinthe.o
-
 $ ./a
+```
 
 
 
-
----------------------------NIVEAU 7 ------------------------------
-
-******************************************************************
+## Answer to level 7
 
 >>> ÉNONCÉ :
 
